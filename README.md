@@ -1,2 +1,2 @@
-# LAEDI-2
-Repositório designado à disciplina LAEDI 2
+# LAEDII
+Repositório designado à disciplina LAEDII
